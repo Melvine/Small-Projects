@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "problem1helpers.h"
 
+//this FILE REQUIRES: problem1helpers.c(this file) and problem1helpers.h 
+
 /* make_card
  *
  * Allocate space for AND initialize the values for a single card
